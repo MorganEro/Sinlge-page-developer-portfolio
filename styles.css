@@ -633,6 +633,9 @@ textarea {
     gap: 210px;
     padding: 84px 161px 0;
   }
+  .heading-l {
+    font-size: 5.5rem;
+  }
 
   .section-contact div {
     text-align: left;
