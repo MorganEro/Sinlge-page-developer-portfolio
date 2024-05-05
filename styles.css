@@ -396,7 +396,7 @@ picture {
 }
 .project img {
   width: 346px;
-  height: 253px;
+  height: 254px;
   margin-bottom: 20px;
 }
 .heading-s {
@@ -425,11 +425,6 @@ picture {
   .projects {
     grid-template-columns: 1fr 1fr;
     gap: 60px 24px;
-  }
-  .project img {
-    width: 345px;
-    height: 253px;
-    margin-bottom: 20px;
   }
   .projects-heading {
     margin-bottom: 60px;

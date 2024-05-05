@@ -38,30 +38,30 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/MorganEro/Skilled-elearning-landing-page)
-- Live Site URL: (https://morganero.github.io/Skilled-elearning-landing-page/)
+- Solution URL: (https://github.com/MorganEro/Sinlge-page-developer-portfolio)
+- Live Site URL: (https://morganero.github.io/Sinlge-page-developer-portfolio/)
 
 ## My process
 
 I created my variables for colors and fonts. Then created css for repeated styles.
-Next I completed the mobile view. I then created the tablet view. Lastly, I created the Desktop view. After all the views were created, I checked for a responsive flow and made edits to the css to make sure everything looked as close to the figma and preview designs as I could.
-After matching the design, I checked my lighthouse score and made some edits to improve the performance.
+Next I completed the mobile view. I then created the tablet view. Lastly, I created the Desktop view. After all the views were created, I checked for a responsive flow and made edits to the css to make sure everything looked as close to the figma and preview designs as I could. I then created the js script for error messages and email validation. Finally , after matching the design, I checked my lighthouse score and made some edits to improve the performance.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-I am still improving my usage of em, rem, and px. Trying to find the best time to use each one by experimenting. I think I might have overused em and rem on this project.
+I learned that i needed to add a title to my links when using an svg element to help with accessibility. I also learned that that the aspect ratio of images is important and can cause blurring issues if not correct.
 
 ### Continued development
 
-I am still confused by why some of the dimensions don't seem to match up between my developer tool preview and figma files. The differences aren't consistent so I am exploring and being more attentive about it.
+I will continue to develop my ability to estimate how long it will take to complete a project.
 
 ## Author
 
